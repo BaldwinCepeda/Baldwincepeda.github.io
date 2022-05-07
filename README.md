@@ -1,2 +1,2 @@
 # Baldwincepeda.github.io
-A quick test 
+A brief intro.
