@@ -3,7 +3,7 @@
         font-family: sans-serif;
         width: auto;
         border: auto;  
-        padding: auto;
+        padding: 25px;
       }
 
       body.content {
@@ -13,9 +13,9 @@
         margin: auto;
       }
 
-      /* header.Username {
-     
-      } */
+       /* header.Username {
+        
+      }  */
       nav {
         line-height: 27px;
         font-size: 18px;
