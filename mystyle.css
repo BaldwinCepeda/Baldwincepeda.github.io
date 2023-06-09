@@ -4,19 +4,19 @@
         width: auto;
         border: auto; 
         padding: auto; 
-        margin: 25px;
+        margin: auto;
         background-color: whitesmoke;
-       
-       
+        border: 10px;
+
+        color: black;
+        width: 50%;
+        padding: 10px;
       }
 
-      body.content {
-        border: 10px;
-        max-width: 700px;
-        width: 100%;
-        margin: auto;
+      a {
         color: black;
-      }
+      } 
+    
 
        /* header.Usrername {
         
@@ -24,9 +24,7 @@
       nav {
         line-height: 27px;
         font-size: 18px;
+        
       }
 
-      a {
     
-        color: black;
-      } 
