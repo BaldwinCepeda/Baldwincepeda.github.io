@@ -3,7 +3,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f8f8f8;
+  background-color: #fff;
 }
 
 .container {
@@ -22,7 +22,7 @@ h1 {
 .links a {
   margin-right: 15px;
   text-decoration: none;
-  color: #007acc;
+  color: #000000;
 }
 
 .links a:hover {
