@@ -1,30 +1,33 @@
-
-    body {
-        font-family: sans-serif;
-        width: auto;
-        border: auto; 
-        padding: auto; 
-        margin: auto;
-        background-color: whitesmoke;
-        border: 10px;
-
-        color: black;
-        width: 50%;
+      header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #f0f0f0;
         padding: 10px;
       }
+      
+      .header-content {
+        display: flex;
+        align-items: center;
+      }
+      
+      h1 {
+        margin-right: 20px;
+      }
+      
+      nav ul {
+        display: flex;
+        list-style: none;
+        padding: 0;
+      }
+      
+      nav li {
+        margin-right: 10px;
+      }
+      
 
       a {
         color: black;
       } 
-    
 
-       /* header.Usrername {
-        
-      }  */
-      nav {
-        line-height: 27px;
-        font-size: 18px;
-        
-      }
-
-    
+   
